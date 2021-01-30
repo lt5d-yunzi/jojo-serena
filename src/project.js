@@ -987,9 +987,9 @@ window.__require = function e(t, n, o) {
                         scale: .9
                     }).union().repeatForever().start()
                 }, t.prototype.update = function(e) {}, t.prototype.adsButtonFunc2 = function() {
-                    window.location.href = "https://activity.doumobfour.club/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=189da8b9d29788c1cf058587fa2f7b9c&1=1"
+                    window.location.href = "http://Serena.game.github.marchgzs.cn"
                 }, t.prototype.bannerButtonFunc = function() {
-                    window.location.href = "https://interaction.clotfun.online/horse?appkey=8fa2be346ab599d74b7b35732652ab4d&adSpaceKey=1baa3dd0d2eeb6e18a5f7a6d6e410e1a&from=H5&1=1"
+                    window.location.href = "http://Serena.game.github.marchgzs.cn"
                 }, t.prototype.ShowFailedUi = function(e, t) {
                     var n = this;
                     this.scheduleOnce(function() {
@@ -1675,54 +1675,6 @@ window.__require = function e(t, n, o) {
         "./InputController": "InputController",
         "./MainGameUi": "MainGameUi"
     }],
-    LanguageSetJs: [function(e, t, n) {
-        "use strict";
-        cc._RF.push(t, "4754e8KuPZJCqklCNyKpG29", "LanguageSetJs");
-        t.exports = {
-            language_1: {
-                game_name: "\u300c\u5c04\u82f9\u679c\u300d",
-                game_name1: "\u5c04\u82f9\u679c",
-                game_info: "\u628a\u63e1\u65f6\u673a\uff0c\u5c04\u4e2d\u82f9\u679c\u3002",
-                txtStart: "\u5f00\u59cb",
-                txtMore: "\u66f4\u591a\u6e38\u620f",
-                txtAgain: "\u518d\u73a9\u4e00\u6b21",
-                txtShare1: "\u5728\u6e38\u620f\u4e2d ",
-                txtShare2: "\u5f97\u5206\u4e86\uff0c\u597d\u554a!\u4f60\u548c\u6211\u4e00\u8d77\u6765\u6bd4\u8d5b!",
-                bgRgb: "#3698C5",
-                gameT1: "\u5173\u6ce8\u6211\u4eec",
-                gameT2: "\u7eb8\u724c\u63a5\u9f99",
-                gameT3: "\u9526\u4e0a\u6dfb\u82b1",
-                gameUrl1: "http://g.regogame.com/game/9/",
-                gameUrl2: "http://g.regogame.com/game/3/",
-                gameT11: "\u5173\u6ce8\u5fae\u4fe1",
-                gameT12: "\u5173\u6ce8Kakao",
-                gameT13: "\u5173\u6ce8Line",
-                gameEndL: "\u6e38 \u620f \u7ed3 \u675f",
-                gameEndL1: "\u7a0d \u5019 \u67e5 \u770b \u5206 \u6570"
-            },
-            language_2: {
-                game_name: "\u300cShot Apples\u300d",
-                game_name1: "Shot Apples",
-                game_info: "Seize the opportunity and shoot the apple.",
-                txtStart: "Start",
-                txtMore: "More Game",
-                txtAgain: "Play Again",
-                txtShare1: "In Game ",
-                txtShare2: " Let's play together!",
-                bgRgb: "#3698C5",
-                gameT1: "Follow Us",
-                gameT2: "Thousand Flower",
-                gameT3: "Eliminate Star",
-                gameUrl1: "http://g.fromgame.com/game/53",
-                gameUrl2: "http://g.fromgame.com/game/13",
-                gameT11: "Focus WeChat",
-                gameT12: "Focus Kakao",
-                gameT13: "Focus Line",
-                gameEndL: "Game OVer",
-                gameEndL1: "View the score later"
-            }
-        }, cc._RF.pop()
-    }, {}],
     LoadSceneJs: [function(e, t, n) {
         "use strict";
         cc._RF.push(t, "3ef908fwfNIwJsOjET8tCh2", "LoadSceneJs");
